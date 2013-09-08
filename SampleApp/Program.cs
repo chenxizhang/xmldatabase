@@ -156,6 +156,7 @@ namespace SampleApp
 
                 //第九步：关闭数据库
                 db.Close();
+
             }
 
             Console.Read();
