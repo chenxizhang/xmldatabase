@@ -9,6 +9,7 @@ namespace XMLDatabase.Core.Test
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
