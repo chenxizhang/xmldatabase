@@ -9,25 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDatabase.Core", "XDataba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSample", "WebSample\WebSample.csproj", "{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDatabase.Core.Test", "XMLDatabase.Core.Test\XMLDatabase.Core.Test.csproj", "{669C5F9C-AAD9-45C1-8494-A149A0ED05B1}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://chenxizhang.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = DataEntities\\DataEntities.csproj
-		SccProjectName1 = DataEntities
-		SccLocalPath1 = DataEntities
-		SccProjectUniqueName2 = SampleApp\\SampleApp.csproj
-		SccProjectName2 = SampleApp
-		SccLocalPath2 = SampleApp
-		SccProjectUniqueName3 = XDatabase.Core\\XMLDatabase.Core.csproj
-		SccProjectName3 = XDatabase.Core
-		SccLocalPath3 = XDatabase.Core
-		SccProjectUniqueName4 = WebSample\\WebSample.csproj
-		SccProjectName4 = WebSample
-		SccLocalPath4 = WebSample
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -49,6 +33,10 @@ Global
 		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669C5F9C-AAD9-45C1-8494-A149A0ED05B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669C5F9C-AAD9-45C1-8494-A149A0ED05B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669C5F9C-AAD9-45C1-8494-A149A0ED05B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669C5F9C-AAD9-45C1-8494-A149A0ED05B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
