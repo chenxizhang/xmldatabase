@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{3AFBC3B7-8F21-4BF2-8FD4-FF47B5BEF2B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEntities", "DataEntities\DataEntities.csproj", "{99C0739D-1075-4D91-9D0B-DED0A073819F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDatabase.Core", "XDatabase.Core\XMLDatabase.Core.csproj", "{71DA40A9-971B-47D7-9565-725F35A8C4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSample", "WebSample\WebSample.csproj", "{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chenxizhang.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataEntities\\DataEntities.csproj
+		SccProjectName1 = DataEntities
+		SccLocalPath1 = DataEntities
+		SccProjectUniqueName2 = SampleApp\\SampleApp.csproj
+		SccProjectName2 = SampleApp
+		SccLocalPath2 = SampleApp
+		SccProjectUniqueName3 = XDatabase.Core\\XMLDatabase.Core.csproj
+		SccProjectName3 = XDatabase.Core
+		SccLocalPath3 = XDatabase.Core
+		SccProjectUniqueName4 = WebSample\\WebSample.csproj
+		SccProjectName4 = WebSample
+		SccLocalPath4 = WebSample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFBC3B7-8F21-4BF2-8FD4-FF47B5BEF2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFBC3B7-8F21-4BF2-8FD4-FF47B5BEF2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFBC3B7-8F21-4BF2-8FD4-FF47B5BEF2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFBC3B7-8F21-4BF2-8FD4-FF47B5BEF2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C0739D-1075-4D91-9D0B-DED0A073819F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C0739D-1075-4D91-9D0B-DED0A073819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C0739D-1075-4D91-9D0B-DED0A073819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C0739D-1075-4D91-9D0B-DED0A073819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DA40A9-971B-47D7-9565-725F35A8C4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA40A9-971B-47D7-9565-725F35A8C4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA40A9-971B-47D7-9565-725F35A8C4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA40A9-971B-47D7-9565-725F35A8C4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0580E8A1-BDCA-49CA-8F9F-9C330903FD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

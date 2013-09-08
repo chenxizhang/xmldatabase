@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLDatabase-SystemLogs Date="2013-07-21" EngineVersion="1.0.0.0">
+  <LogEntry Time="2013-07-21T11:36:51.7959573+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+  <LogEntry Time="2013-07-21T11:36:51.8769743+08:00" Message="新增了一个对象,编号为:06368e25-c180-45d7-a84d-da538151234d,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+  <LogEntry Time="2013-07-21T11:36:51.9349778+08:00" Message="进行了对象查询，取得的对象数量是:32" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+  <LogEntry Time="2013-07-21T11:36:52.6910129+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+  <LogEntry Time="2013-07-21T11:36:52.699019+08:00" Message="新增了一个对象,编号为:a126a589-3272-44fd-a992-827ad4462c4c,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+  <LogEntry Time="2013-07-21T11:36:52.7180129+08:00" Message="进行了对象查询，取得的对象数量是:33" Application="/LM/W3SVC/39/ROOT-1-130188514084077587" UserName="" />
+</XMLDatabase-SystemLogs>

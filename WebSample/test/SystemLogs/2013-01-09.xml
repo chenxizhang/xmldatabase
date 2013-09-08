@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLDatabase-SystemLogs Date="2013-01-09" EngineVersion="1.0.0.0">
+  <LogEntry Time="2013-01-09T11:14:30.9367594+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021748691371149" UserName="" />
+  <LogEntry Time="2013-01-09T11:14:30.9627686+08:00" Message="完成对类型DataEntities.Employee的配置" Application="/LM/W3SVC/39/ROOT-1-130021748691371149" UserName="" />
+  <LogEntry Time="2013-01-09T11:14:30.96677+08:00" Message="新增了一个对象,编号为:4fbc7d28-c6da-4e85-a9cb-77be96bd0e22,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021748691371149" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:29.5908718+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:29.6008733+08:00" Message="新增了一个对象,编号为:f4496806-31cc-47c5-98db-af493b160db4,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:29.61288+08:00" Message="进行了对象查询，取得的对象数量是:2" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.3214921+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.3224928+08:00" Message="新增了一个对象,编号为:4b5b9e5d-f43b-4285-a52f-276a77dd7e05,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.3264938+08:00" Message="进行了对象查询，取得的对象数量是:3" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.8867034+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.8886987+08:00" Message="新增了一个对象,编号为:2b7aeca3-997c-4fc9-912b-bafd52d7cec4,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:31.8916976+08:00" Message="进行了对象查询，取得的对象数量是:4" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.0947736+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.0967713+08:00" Message="新增了一个对象,编号为:95c7410c-f11a-4275-bb40-4179e827e06e,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.099772+08:00" Message="进行了对象查询，取得的对象数量是:5" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.2888432+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.2908437+08:00" Message="新增了一个对象,编号为:9be33b04-84b0-47a5-8815-63ce349618d8,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.2928446+08:00" Message="进行了对象查询，取得的对象数量是:6" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.5459351+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.548934+08:00" Message="新增了一个对象,编号为:6b28ce95-0cf4-459b-a2ee-59e7f8474072,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.551938+08:00" Message="进行了对象查询，取得的对象数量是:7" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.6639774+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.6659765+08:00" Message="新增了一个对象,编号为:c183e70b-dfe7-426c-83a6-37d48d2441a4,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.6689875+08:00" Message="进行了对象查询，取得的对象数量是:8" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.8390382+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.8410391+08:00" Message="新增了一个对象,编号为:ef03b0de-6159-4c58-bbc5-941839e772bd,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:32.8440403+08:00" Message="进行了对象查询，取得的对象数量是:9" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.0311073+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.0331106+08:00" Message="新增了一个对象,编号为:c0888d2b-b743-4af8-95c5-d93707387a9a,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.0361118+08:00" Message="进行了对象查询，取得的对象数量是:10" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.1921656+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.1941684+08:00" Message="新增了一个对象,编号为:6f8f3553-4782-443a-b29e-b36c08cab2f7,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.1971701+08:00" Message="进行了对象查询，取得的对象数量是:11" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.3912393+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.3932402+08:00" Message="新增了一个对象,编号为:5d022f2a-3cce-413a-8769-a0516fa42ecd,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.3962414+08:00" Message="进行了对象查询，取得的对象数量是:12" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.5592997+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.5613002+08:00" Message="新增了一个对象,编号为:0c0e6469-f87d-4984-a196-388000fb86a2,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.5643019+08:00" Message="进行了对象查询，取得的对象数量是:13" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.751367+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.7533698+08:00" Message="新增了一个对象,编号为:49ef1560-0604-49af-911c-d36a396915ce,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.756371+08:00" Message="进行了对象查询，取得的对象数量是:14" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.9434357+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.9454366+08:00" Message="新增了一个对象,编号为:e457c362-bb92-4e2f-845a-e00e3ecbaee3,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:33.9484378+08:00" Message="进行了对象查询，取得的对象数量是:15" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.1355066+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.1375076+08:00" Message="新增了一个对象,编号为:317d7bb1-afec-4ded-964c-969ad11d4e20,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.1405097+08:00" Message="进行了对象查询，取得的对象数量是:16" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.3525851+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.3545837+08:00" Message="新增了一个对象,编号为:1fe01b64-a927-49fe-bb2b-9893bcdf117f,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.3575849+08:00" Message="进行了对象查询，取得的对象数量是:17" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.4876334+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.4896343+08:00" Message="新增了一个对象,编号为:7f93569d-5a50-4498-947f-3da37fbc0247,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.492636+08:00" Message="进行了对象查询，取得的对象数量是:18" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.6797006+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.6817011+08:00" Message="新增了一个对象,编号为:d06ba510-8074-4b49-a9c3-ca206f7ba234,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.6847023+08:00" Message="进行了对象查询，取得的对象数量是:19" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.8547773+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.8567666+08:00" Message="新增了一个对象,编号为:7de3662f-06c8-4446-9767-ec7d4f4e38b0,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:34.8607662+08:00" Message="进行了对象查询，取得的对象数量是:20" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.0308295+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.0338311+08:00" Message="新增了一个对象,编号为:d3f357bb-7d93-4bc8-bf1d-b3b7364787e5,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.0368295+08:00" Message="进行了对象查询，取得的对象数量是:21" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.207894+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.209894+08:00" Message="新增了一个对象,编号为:8a68ecd3-906c-4b13-a3b2-33786858da3b,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.2148957+08:00" Message="进行了对象查询，取得的对象数量是:22" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.382973+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.3859579+08:00" Message="新增了一个对象,编号为:e2943174-bb49-4645-b071-c31998482fda,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.3889563+08:00" Message="进行了对象查询，取得的对象数量是:23" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.5750253+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.5780265+08:00" Message="新增了一个对象,编号为:a06cdff8-8eb5-46ab-ba5a-3d9b635d6839,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.5810338+08:00" Message="进行了对象查询，取得的对象数量是:24" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.7110738+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.7130752+08:00" Message="新增了一个对象,编号为:d99a3b11-de62-4f85-90e7-5d389f87a1a4,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.7170776+08:00" Message="进行了对象查询，取得的对象数量是:25" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.8801341+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.882135+08:00" Message="新增了一个对象,编号为:050817d1-71fa-41b8-953e-11911320d651,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:35.8871372+08:00" Message="进行了对象查询，取得的对象数量是:26" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.063201+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.0662031+08:00" Message="新增了一个对象,编号为:273f3c2f-d8e5-474c-9bb8-6112a36fccda,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.0702013+08:00" Message="进行了对象查询，取得的对象数量是:27" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.2482661+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.2502689+08:00" Message="新增了一个对象,编号为:62a4ff1a-0ce4-45ba-8cb3-cebac5924807,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.2542704+08:00" Message="进行了对象查询，取得的对象数量是:28" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.4243304+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.4263309+08:00" Message="新增了一个对象,编号为:6205099f-0976-4331-982e-eea3a22e74e1,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.4303333+08:00" Message="进行了对象查询，取得的对象数量是:29" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.6003919+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.6023947+08:00" Message="新增了一个对象,编号为:a34f2d9c-796d-48ed-a732-a01be4fdf30f,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.6073978+08:00" Message="进行了对象查询，取得的对象数量是:30" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.7914631+08:00" Message="数据库启动" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.7944648+08:00" Message="新增了一个对象,编号为:9718a724-4c66-423c-b144-b7d683f39bc3,对象为:FullName:ares chen,Title:CEO" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+  <LogEntry Time="2013-01-09T11:15:36.7984658+08:00" Message="进行了对象查询，取得的对象数量是:31" Application="/LM/W3SVC/39/ROOT-1-130021749280813263" UserName="" />
+</XMLDatabase-SystemLogs>
