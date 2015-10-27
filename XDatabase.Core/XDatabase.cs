@@ -125,6 +125,14 @@ namespace XmlDatabase.Core
         #endregion
 
         #region 管理维护
+        /// <summary>
+        /// 默认给web项目打开一个数据库，在app_data目录下面，数据库名称为db
+        /// </summary>
+        /// <returns></returns>
+        public static XDatabase OpenWebDefaultDb()
+        {
+            return Open("~/app_data/db");
+        }
 
         /// <summary>
         /// 创建或者打开数据库，如果数据库存在即打开，如果不存在就创建
@@ -433,6 +441,7 @@ namespace XmlDatabase.Core
         public XSubmitStatus SubmitChanges() {
             return SubmitChanges(true);
         }
+
 
         /// <summary>
         /// 用事务的方式一次性提交多个更改。这种情况下，只要有任何一项操作不成功，整个所有的操作都将撤销。
